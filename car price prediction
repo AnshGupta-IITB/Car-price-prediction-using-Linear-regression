@@ -1,7 +1,7 @@
 #import required libraries
 import pandas as pd
 import matplotlib.pyplot as plt
-%matplotlib inline
+#matplotlib inline
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
